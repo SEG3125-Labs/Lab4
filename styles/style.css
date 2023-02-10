@@ -1,5 +1,5 @@
 .header {
-    background: url('../img/download.jpg');
+    background: url('../img/p.jpg');
     background-size: cover;
 }
 .service-card-img {
@@ -7,3 +7,5 @@
     object-fit: cover;
     max-height: 200px;
 }
+
+
